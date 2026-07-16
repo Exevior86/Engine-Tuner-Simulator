@@ -7,13 +7,9 @@ public abstract class EnginePartData : ScriptableObject
     [TextArea(2, 5)]
     public string partDescription;
     public float purchaseCost;
-
-    public Sprite partIcon;
+    public string imageFileName;
 
     [Header("Progression & Mechanics")]
-    public int unlockTier;          // Career mode tier level (Tier 1, Tier 2, etc.)
-    public float componentWeight;   // Weight in lbs or kg (affects total vehicle weight)
-
-    [Header("Degradation (Optional)")]
-    public float maximumDurability = 100f; // For wear-and-tear mechanics later
+    public int unlockTier;
+    public float componentWeight;
 }

@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 9e9d0c7bca21e1f41ba74fc8c897d683
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6110791905988835579
+    second: RedButtonFrame_0
+  - first:
+      213: -1609451133391715910
+    second: RedButtonFrame_1
+  - first:
+      213: 2746417691216017115
+    second: RedButtonFrame_2
+  - first:
+      213: 4500527911437134592
+    second: RedButtonFrame_3
+  - first:
+      213: 5381834381679494445
+    second: RedButtonFrame_4
+  - first:
+      213: 6989878985111628117
+    second: RedButtonFrame_5
+  - first:
+      213: -7718596149837148317
+    second: RedButtonFrame_6
+  - first:
+      213: 4852180027450375831
+    second: RedButtonFrame_7
+  - first:
+      213: 24747568679961415
+    second: RedButtonFrame_8
+  - first:
+      213: 2648361109559029150
+    second: RedButtonFrame_9
+  - first:
+      213: -5925755365326876303
+    second: RedButtonFrame_10
+  - first:
+      213: -360665296488889839
+    second: RedButtonFrame_11
+  - first:
+      213: 3745728118650617085
+    second: RedButtonFrame_12
+  - first:
+      213: -7664119998201378724
+    second: RedButtonFrame_13
+  - first:
+      213: -4283444003849688203
+    second: RedButtonFrame_14
+  - first:
+      213: 341044306579974495
+    second: RedButtonFrame_15
+  - first:
+      213: -4687215224549376981
+    second: RedButtonFrame_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 1, y: 0, z: 1, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedButtonFrame_0
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 156
+        width: 842
+        height: 771
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507043b432b123ba0800000000000000
+      internalID: -6110791905988835579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedButtonFrame_0: -6110791905988835579
+      RedButtonFrame_1: -1609451133391715910
+      RedButtonFrame_10: -5925755365326876303
+      RedButtonFrame_11: -360665296488889839
+      RedButtonFrame_12: 3745728118650617085
+      RedButtonFrame_13: -7664119998201378724
+      RedButtonFrame_14: -4283444003849688203
+      RedButtonFrame_15: 341044306579974495
+      RedButtonFrame_16: -4687215224549376981
+      RedButtonFrame_2: 2746417691216017115
+      RedButtonFrame_3: 4500527911437134592
+      RedButtonFrame_4: 5381834381679494445
+      RedButtonFrame_5: 6989878985111628117
+      RedButtonFrame_6: -7718596149837148317
+      RedButtonFrame_7: 4852180027450375831
+      RedButtonFrame_8: 24747568679961415
+      RedButtonFrame_9: 2648361109559029150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,101 +1,91 @@
-PartType,PartName,Cost,Weight,Tier,Stat1,Stat2,Stat3,Stat4,Stat5
-Camshaft,AeroFlow Mild-Street,350,4.5,1,9.2,256,2200,0,0
-Camshaft,Kinetic Stage 2 Track,600,4.2,1,10.5,272,3100,0,0
-Camshaft,VRM High-Lift Race,950,3.8,2,11.8,288,4000,0,0
-Camshaft,Titan Pro-Duration,1400,3.5,2,12.5,304,4500,0,0
-Camshaft,Titan Nexus Screamer,2600,2.8,3,14.2,320,6200,0,0
-Downpipe,AeroFlow High-Flow Catted,250,8.5,1,2.5,1,0,0,0
-Downpipe,Titan Core 3-Inch,400,7.2,1,3.0,1,0,0,0
-Downpipe,VRM Straight-Pipe Track,550,6.0,2,3.0,0,0,0,0
-Downpipe,Chronos Titanium Link,900,3.8,2,3.5,0,0,0,0
-Downpipe,Titan Nexus Ultra-Flow,1600,2.5,3,3.5,0,0,0,0
-EBC,Chronos Manual Bleed Bleeder,80,0.5,1,0,0,0,0,0
-EBC,AeroFlow 3-Way Electronic,220,0.8,1,1,25,0,0,0
-EBC,VRM Digital Solenoid,450,0.6,2,1,33,0,0,0
-EBC,Kinetic Pro Duty Solenoid,750,0.5,2,1,50,0,0,0
-EBC,Titan Nexus Smart-Gate,1400,0.4,3,1,100,0,0,0
-EngineBlock,ForgeSteel Cast-Iron 2.0L,1200,85.0,1,2.0,4,450,0,0
-EngineBlock,ForgeSteel Alloy 2.4L,2400,62.0,1,2.4,4,650,0,0
-EngineBlock,VRM Billet Brawler 2.0L,4500,55.0,2,2.0,4,950,0,0
-EngineBlock,Titan Nexus V6 Core,7500,72.0,2,3.0,6,1200,0,0
-EngineBlock,Titan Nexus Indy-16k V6,15000,38.0,3,3.2,6,1600,0,0
-EngineAssembly,Base Sport Blueprint,0,0.0,1,0,0,0,0,0
-EngineAssembly,Street Tuned Package,1500,0.0,1,0,0,0,0,0
-EngineAssembly,Pro-Track Configuration,5000,0.0,2,0,0,0,0,0
-EngineAssembly,Outlaw Drag Package,12000,0.0,2,0,0,0,0,0
-EngineAssembly,Titan Nexus Apex-Spec,25000,0.0,3,0,0,0,0,0
-ExhaustManifold,AeroFlow Log-Style,150,7.5,1,1.5,0,0,0,0
-ExhaustManifold,Kinetic Tubular Manifold,380,5.8,1,1.75,1,0,0,0
-ExhaustManifold,VRM Equal-Length Header,600,5.2,2,1.75,1,0,0,0
-ExhaustManifold,Chronos Twisted-Runner,950,4.5,2,2.0,1,0,0,0
-ExhaustManifold,Titan Nexus Inconel,1900,3.1,3,2.25,1,0,0,0
-Headers,AeroFlow Cast Replacement,150,7.5,1,1.5,0,0,0,0
-Headers,Kinetic Shorty Headers,380,5.8,1,1.75,1,0,0,0
-Headers,VRM Long-Tube Headers,600,5.2,2,1.75,1,0,0,0
-Headers,Chronos Drag Headers,950,4.5,2,2.0,1,0,0,0
-Headers,Titan Nexus Titanium Header,1900,3.1,3,2.25,1,0,0,0
-Exhaust,AeroFlow Sport Muffler,200,18.0,1,2.5,0.2,0,0,0
-Exhaust,Titan Core Cat-Back,450,14.2,1,3.0,0.1,0,0,0
-Exhaust,VRM Spec Straight-Exit,650,11.0,2,3.0,0.0,0,0,0
-Exhaust,Chronos Titanium Cat-Back,1300,6.5,2,3.5,0.0,0,0,0
-Exhaust,Titan Nexus Carbon Cat-Back,2200,4.8,3,3.5,0.0,0,0,0
-FlexFuelSensor,Hydra Basic Ethanol Tap,150,0.3,1,0,0,0,0,0
-FlexFuelSensor,Kinetic Dual-Channel Sensor,350,0.2,2,1,0,0,0,0
-FlexFuelSensor,VRM High-Frequency E85,550,0.2,2,1,0,0,0,0
-FlexFuelSensor,Titan Nexus Multi-Blend,900,0.1,3,1,0,0,0,0
-FlexFuelSensor,Titan Nexus Quantum-Flex,1500,0.1,3,1,0,0,0,0
-Fuel,Commercial 91 Octane,3.5,0.0,1,91,14.7,0.0,0,0
-Fuel,Premium 93 Octane,4.2,0.0,1,93,14.7,0.05,0,0
-Fuel,Hydra Race-100 Pump,8.5,0.0,2,100,14.5,0.15,0,0
-Fuel,Hydra E85 Flex-Ethanol,6.0,0.0,2,105,9.7,0.4,0,0
-Fuel,Titan Nexus Nitro-Methane,25.0,0.0,3,120,6.5,0.8,0,0
-FuelPump,Hydra Flow-150 Pump,120,2.1,1,150,60,0,0,0
-FuelPump,Hydra Flow-255 Standard,220,1.8,1,255,80,0,0,0
-FuelPump,Kinetic Flow-340 Heavy,380,1.6,2,340,90,0,0,0
-FuelPump,VRM Twin-Spool External,650,3.2,2,450,100,0,0,0
-FuelPump,Titan Nexus Infinite-Flow,1400,1.2,3,650,120,0,0,0
-Head,ForgeSteel Cast Head,400,22.0,1,45,2,0,0,0
-Head,ForgeSteel Dual-Cam Head,850,18.0,1,50,4,0,0,0
-Head,VRM CNC Race Head,1800,14.5,2,52,4,0,0,0
-Head,Titan Pro-Flow Head,3200,12.0,2,55,4,0,0,0
-Head,Titan Nexus Formula Head,6500,8.2,3,58,4,0,0,0
-HeadPortValvetrain,Kinetic Street Springs,250,2.1,1,7200,0.05,0,0,0
-HeadPortValvetrain,Kinetic Track Springs & Valves,550,1.8,1,8500,0.12,0,0,0
-HeadPortValvetrain,VRM CNC Stage 1 Port,1100,1.5,2,9800,0.22,0,0,0
-HeadPortValvetrain,VRM Stage 2 Pro Race,1900,1.2,2,12000,0.30,0,0,0
-HeadPortValvetrain,Titan Nexus 16k Indy-Spec,3800,0.8,3,16500,0.45,0,0,0
-Injectors,Hydra Flow-550,180,0.4,1,550,0.85,0,0,0
-Injectors,Hydra Flow-1000,350,0.4,1,1000,0.85,0,0,0
-Injectors,Kinetic Spray-1300,550,0.4,2,1300,0.85,0,0,0
-Injectors,VRM Atomizer-2200,850,0.5,2,2200,0.90,0,0,0
-Injectors,Titan Nexus Infinite,1600,0.3,3,3000,0.95,0,0,0
-IntakeManifold,AeroFlow OEM Upgrade,200,6.5,1,3.5,120,0,0,0
-IntakeManifold,Kinetic Sheet-Metal Intake,450,5.2,1,4.2,145,0,0,0
-IntakeManifold,VRM Short-Runner Plenum,750,4.8,2,5.0,170,0,0,0
-IntakeManifold,Chronos Air-Box Induction,1100,4.0,2,5.5,190,0,0,0
-IntakeManifold,Titan Nexus Velocity Intake,2200,2.5,3,6.2,225,0,0,0
-Intercooler,AeroFlow Side-Mount Core,250,8.2,1,280,0.65,0,0,0
-Intercooler,AeroFlow Front-Mount Core,500,12.5,1,450,0.78,0,0,0
-Intercooler,VRM Dense-Fin Intercooler,850,14.0,2,600,0.85,0,0,0
-Intercooler,Chronos Ice-Chamber Upgrade,1400,16.5,2,750,0.92,0,0,0
-Intercooler,Titan Nexus Liquid-to-Air,2800,9.5,3,1000,0.98,0,0,0
-Pistons,ForgeSteel Cast Replacement,250,2.2,1,-5,0,0,0,0
-Pistons,ForgeSteel Hypereutectic,450,2.0,1,2,0,0,0,0
-Pistons,Kinetic Forged-Light,800,1.6,2,-3,1,0,0,0
-Pistons,VRM Billet High-Comp,1300,1.4,2,5,1,0,0,0
-Pistons,Titan Nexus Carbon-Alloy,2800,0.9,3,7,1,0,0,0
-Supercharger,Zephyr Roots-Type SC,800,18.5,1,120,1.8,0,0,0
-Zephyr,Zephyr Twin-Screw SC,1500,22.0,1,160,2.2,0,0,0
-Supercharger,VRM Centrifugal Charger,2600,14.2,2,210,2.8,0,0,0
-Supercharger,Chronos Mechanical Drive,4200,16.0,2,280,3.2,0,0,0
-Supercharger,Titan Nexus Apex-Charger,6800,11.5,3,350,4.0,0,0,0
-ThrottleBody,AeroFlow 65mm Upgrade,120,1.5,1,65,0,0,0,0
-ThrottleBody,AeroFlow 70mm Upgrade,180,1.6,1,70,0,0,0,0
-ThrottleBody,Kinetic 80mm Overbore,300,1.8,2,80,0,0,0,0
-ThrottleBody,VRM 90mm Large-Butterfly,480,2.0,2,90,0,0,0,0
-ThrottleBody,Titan Nexus 105mm Drive-By-Wire,850,1.4,3,105,0,0,0,0
-Turbo,Stock-Spool T20,250,5.2,1,35,2800,18,0.48,0
-Turbo,Zephyr GT-X Street,850,6.1,1,48,3200,24,0.64,0
-Turbo,Apex Chronos Race-Spec,1750,7.8,2,72,3900,35,0.82,0
-Turbo,VRM Outlaw Drag-Core,3200,9.2,2,95,4600,42,0.96,0
-Turbo,Titan Nexus Indy-16k,5500,4.5,3,115,6200,55,1.05,0
+PartType,PartName,Cost,Weight,Tier,ImageName,Stat1,Stat2,Stat3,Stat4,Stat5
+Camshaft,AeroFlow Mild-Street,350,4.5,1,camshaftsSheet:camshaftsSheet_0,9.2,256,2200,0,0
+Camshaft,Kinetic Stage 2 Track,600,4.2,1,camshaftsSheet:camshaftsSheet_1,10.5,272,3100,0,0
+Camshaft,VRM High-Lift Race,950,3.8,2,camshaftsSheet:camshaftsSheet_2,11.8,288,4000,0,0
+Camshaft,Titan Pro-Duration,1400,3.5,2,camshaftsSheet:camshaftsSheet_3,12.5,304,4500,0,0
+Camshaft,Titan Nexus Screamer,2600,2.8,3,camshaftsSheet:camshaftsSheet_4,14.2,320,6200,0,0
+Downpipe,AeroFlow High-Flow Catted,250,8.5,1,downpipeSheet:downpipeSheet_0,2.5,1,0,0,0
+Downpipe,Titan Core 3-Inch,400,7.2,1,downpipeSheet:downpipeSheet_1,3.0,1,0,0,0
+Downpipe,VRM Straight-Pipe Track,550,6.0,2,downpipeSheet:downpipeSheet_2,3.0,0,0,0,0
+Downpipe,Chronos Titanium Link,900,3.8,2,downpipeSheet:downpipeSheet_3,3.5,0,0,0,0
+Downpipe,Titan Nexus Ultra-Flow,1600,2.5,3,downpipeSheet:downpipeSheet_4,3.5,0,0,0,0
+EBC,Chronos Manual Bleed Bleeder,80,0.5,1,EBCSheet:EBCSheet_0,0,0,0,0,0
+EBC,AeroFlow 3-Way Electronic,220,0.8,1,EBCSheet:EBCSheet_1,1,25,0,0,0
+EBC,VRM Digital Solenoid,450,0.6,2,EBCSheet:EBCSheet_2,1,33,0,0,0
+EBC,Kinetic Pro Duty Solenoid,750,0.5,2,EBCSheet:EBCSheet_3,1,50,0,0,0
+EBC,Titan Nexus Smart-Gate,1400,0.4,3,EBCSheet:EBCSheet_4,1,100,0,0,0
+EngineBlock,ForgeSteel Cast-Iron 2.0L,1200,85.0,1,engineBlockSheet:engineBlockSheet_0,2.0,4,450,0,0
+EngineBlock,ForgeSteel Alloy 2.4L,2400,62.0,1,engineBlockSheet:engineBlockSheet_1,2.4,4,650,0,0
+EngineBlock,VRM Billet Brawler 2.0L,4500,55.0,2,engineBlockSheet:engineBlockSheet_2,2.0,4,950,0,0
+EngineBlock,Titan Nexus V6 Core,7500,72.0,2,engineBlockSheet:engineBlockSheet_3,3.0,6,1200,0,0
+EngineBlock,Titan Nexus Indy-16k V6,15000,38.0,3,engineBlockSheet:engineBlockSheet_4,3.2,6,1600,0,0
+Headers,AeroFlow Cast Replacement,150,7.5,1,ExhaustHeadersSheet:ExhaustHeadersSheet_0,1.5,0,0,0,0
+Headers,Kinetic Shorty Headers,380,5.8,1,ExhaustHeadersSheet:ExhaustHeadersSheet_1,1.75,1,0,0,0
+Headers,VRM Long-Tube Headers,600,5.2,2,ExhaustHeadersSheet:ExhaustHeadersSheet_2,1.75,1,0,0,0
+Headers,Chronos Drag Headers,950,4.5,2,ExhaustHeadersSheet:ExhaustHeadersSheet_3,2.0,1,0,0,0
+Headers,Titan Nexus Titanium Header,1900,3.1,3,ExhaustHeadersSheet:ExhaustHeadersSheet_4,2.25,1,0,0,0
+Exhaust,AeroFlow Sport Muffler,200,18.0,1,ExhaustCat-Back:ExhaustCat-Back_0,2.5,0.2,0,0,0
+Exhaust,Titan Core Cat-Back,450,14.2,1,ExhaustCat-Back:ExhaustCat-Back_1,3.0,0.1,0,0,0
+Exhaust,VRM Spec Straight-Exit,650,11.0,2,ExhaustCat-Back:ExhaustCat-Back_2,3.0,0.0,0,0,0
+Exhaust,Chronos Titanium Cat-Back,1300,6.5,2,ExhaustCat-Back:ExhaustCat-Back_3,3.5,0.0,0,0,0
+Exhaust,Titan Nexus Carbon Cat-Back,2200,4.8,3,ExhaustCat-Back:ExhaustCat-Back_4,3.5,0.0,0,0,0
+FlexFuelSensor,Hydra Basic Ethanol Tap,150,0.3,1,flexFuelSensorsSheet:flexFuelSensorsSheet_0,0,0,0,0,0
+FlexFuelSensor,Kinetic Dual-Channel Sensor,350,0.2,2,flexFuelSensorsSheet:flexFuelSensorsSheet_1,1,0,0,0,0
+FlexFuelSensor,VRM High-Frequency E85,550,0.2,2,flexFuelSensorsSheet:flexFuelSensorsSheet_2,1,0,0,0,0
+FlexFuelSensor,Titan Nexus Multi-Blend,900,0.1,3,flexFuelSensorsSheet:flexFuelSensorsSheet_3,1,0,0,0,0
+FlexFuelSensor,Titan Nexus Quantum-Flex,1500,0.1,3,flexFuelSensorsSheet:flexFuelSensorsSheet_4,1,0,0,0,0
+Fuel,Commercial 91 Octane,3.5,0.0,1,fuelSheet:fuelSheet_0,91,14.7,0.0,0,0
+Fuel,Premium 93 Octane,4.2,0.0,1,fuelSheet:fuelSheet_1,93,14.7,0.05,0,0
+Fuel,Hydra Race-100 Pump,8.5,0.0,2,fuelSheet:fuelSheet_2,100,14.5,0.15,0,0
+Fuel,Hydra E85 Flex-Ethanol,6.0,0.0,2,fuelSheet:fuelSheet_3,105,9.7,0.4,0,0
+Fuel,Titan Nexus Nitro-Methane,25.0,0.0,3,fuelSheet:fuelSheet_4,120,6.5,0.8,0,0
+FuelPump,Hydra Flow-150 Pump,120,2.1,1,fuelpumpsSheet:fuelpumpsSheet_0,150,60,0,0,0
+FuelPump,Hydra Flow-255 Standard,220,1.8,1,fuelpumpsSheet:fuelpumpsSheet_1,255,80,0,0,0
+FuelPump,Kinetic Flow-340 Heavy,380,1.6,2,fuelpumpsSheet:fuelpumpsSheet_2,340,90,0,0,0
+FuelPump,VRM Twin-Spool External,650,3.2,2,fuelpumpsSheet:fuelpumpsSheet_3,450,100,0,0,0
+FuelPump,Titan Nexus Infinite-Flow,1400,1.2,3,fuelpumpsSheet:fuelpumpsSheet_4,650,120,0,0,0
+Head,ForgeSteel Cast Head,400,22.0,1,headsSheet:headsSheet_0,45,2,0,0,0
+Head,ForgeSteel Dual-Cam Head,850,18.0,1,headsSheet:headsSheet_1,50,4,0,0,0
+Head,VRM CNC Race Head,1800,14.5,2,headsSheet:headsSheet_2,52,4,0,0,0
+Head,Titan Pro-Flow Head,3200,12.0,2,headsSheet:headsSheet_3,55,4,0,0,0
+Head,Titan Nexus Formula Head,6500,8.2,3,headsSheet:headsSheet_4,58,4,0,0,0
+HeadPortValvetrain,Kinetic Street Springs,250,2.1,1,ValveTrainSheet:ValveTrainSheet_0,7200,0.05,0,0,0
+HeadPortValvetrain,Kinetic Track Springs & Valves,550,1.8,1,ValveTrainSheet:ValveTrainSheet_1,8500,0.12,0,0,0
+HeadPortValvetrain,VRM CNC Stage 1 Port,1100,1.5,2,ValveTrainSheet:ValveTrainSheet_2,9800,0.22,0,0,0
+HeadPortValvetrain,VRM Stage 2 Pro Race,1900,1.2,2,ValveTrainSheet:ValveTrainSheet_3,12000,0.30,0,0,0
+HeadPortValvetrain,Titan Nexus 16k Indy-Spec,3800,0.8,3,ValveTrainSheet:ValveTrainSheet_4,16500,0.45,0,0,0
+Injectors,Hydra Flow-550,180,0.4,1,injectorSheet:injectorSheet_0,550,0.85,0,0,0
+Injectors,Hydra Flow-1000,350,0.4,1,injectorSheet:injectorSheet_1,1000,0.85,0,0,0
+Injectors,Kinetic Spray-1300,550,0.4,2,injectorSheet:injectorSheet_2,1300,0.85,0,0,0
+Injectors,VRM Atomizer-2200,850,0.5,2,injectorSheet:injectorSheet_3,2200,0.90,0,0,0
+Injectors,Titan Nexus Infinite,1600,0.3,3,injectorSheet:injectorSheet_4,3000,0.95,0,0,0
+IntakeManifold,AeroFlow OEM Upgrade,200,6.5,1,intakemanifoldSheet:intakemanifoldSheet_0,3.5,120,0,0,0
+IntakeManifold,Kinetic Sheet-Metal Intake,450,5.2,1,intakemanifoldSheet:intakemanifoldSheet_1,4.2,145,0,0,0
+IntakeManifold,VRM Short-Runner Plenum,750,4.8,2,intakemanifoldSheet:intakemanifoldSheet_2,5.0,170,0,0,0
+IntakeManifold,Chronos Air-Box Induction,1100,4.0,2,intakemanifoldSheet:intakemanifoldSheet_3,5.5,190,0,0,0
+IntakeManifold,Titan Nexus Velocity Intake,2200,2.5,3,intakemanifoldSheet:intakemanifoldSheet_4,6.2,225,0,0,0
+Intercooler,AeroFlow Side-Mount Core,250,8.2,1,intercoolerSheet:intercoolerSheet_0,280,0.65,0,0,0
+Intercooler,AeroFlow Front-Mount Core,500,12.5,1,intercoolerSheet:intercoolerSheet_1,450,0.78,0,0,0
+Intercooler,VRM Dense-Fin Intercooler,850,14.0,2,intercoolerSheet:intercoolerSheet_2,600,0.85,0,0,0
+Intercooler,Chronos Ice-Chamber Upgrade,1400,16.5,2,intercoolerSheet:intercoolerSheet_3,750,0.92,0,0,0
+Intercooler,Titan Nexus Liquid-to-Air,2800,9.5,3,intercoolerSheet:intercoolerSheet_4,1000,0.98,0,0,0
+Pistons,ForgeSteel Cast Replacement,250,2.2,1,pistonSheet:pistonSheet_0,-5,0,0,0,0
+Pistons,ForgeSteel Hypereutectic,450,2.0,1,pistonSheet:pistonSheet_1,2,0,0,0,0
+Pistons,Kinetic Forged-Light,800,1.6,2,pistonSheet:pistonSheet_2,-3,1,0,0,0
+Pistons,VRM Billet High-Comp,1300,1.4,2,pistonSheet:pistonSheet_3,5,1,0,0,0
+Pistons,Titan Nexus Carbon-Alloy,2800,0.9,3,pistonSheet:pistonSheet_4,7,1,0,0,0
+Supercharger,Zephyr Roots-Type SC,800,18.5,1,superchargerSheet:superchargerSheet_0,120,1.8,0,0,0
+Supercharger,Zephyr Twin-Screw SC,1500,22.0,1,superchargerSheet:superchargerSheet_1,160,2.2,0,0,0
+Supercharger,VRM Centrifugal Charger,2600,14.2,2,superchargerSheet:superchargerSheet_2,210,2.8,0,0,0
+Supercharger,Chronos Mechanical Drive,4200,16.0,2,superchargerSheet:superchargerSheet_3,280,3.2,0,0,0
+Supercharger,Titan Nexus Apex-Charger,6800,11.5,3,superchargerSheet:superchargerSheet_4,350,4.0,0,0,0
+ThrottleBody,AeroFlow 65mm Upgrade,120,1.5,1,throttlebodySheet:throttlebodySheet_0,65,0,0,0,0
+ThrottleBody,AeroFlow 70mm Upgrade,180,1.6,1,throttlebodySheet:throttlebodySheet_1,70,0,0,0,0
+ThrottleBody,Kinetic 80mm Overbore,300,1.8,2,throttlebodySheet:throttlebodySheet_2,80,0,0,0,0
+ThrottleBody,VRM 90mm Large-Butterfly,480,2.0,2,throttlebodySheet:throttlebodySheet_3,90,0,0,0,0
+ThrottleBody,Titan Nexus 105mm Drive-By-Wire,850,1.4,3,throttlebodySheet:throttlebodySheet_4,105,0,0,0,0
+Turbo,Stock-Spool T20,250,5.2,1,turboSheet:turboSheet_0,35,2800,18,0.48,0
+Turbo,Zephyr GT-X Street,850,6.1,1,turboSheet:turboSheet_1,48,3200,24,0.64,0
+Turbo,Apex Chronos Race-Spec,1750,7.8,2,turboSheet:turboSheet_2,72,3900,35,0.82,0
+Turbo,VRM Outlaw Drag-Core,3200,9.2,2,turboSheet:turboSheet_3,95,4600,42,0.96,0
+Turbo,Titan Nexus Indy-16k,5500,4.5,3,turboSheet:turboSheet_4,115,6200,55,1.05,0
